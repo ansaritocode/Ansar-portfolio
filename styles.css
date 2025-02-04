@@ -40,12 +40,12 @@ a:hover {
     text-decoration: underline;
 }
 
-button {
+.button {
     background-color: black;
     color: white;
     aposition: absolute;
   top: 0%;
-  left: 100%;
+  right: 100%;
 }
 body {
     background-color: #f4f4f4;
