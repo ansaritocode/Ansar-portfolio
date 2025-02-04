@@ -43,7 +43,9 @@ a:hover {
 button {
     background-color: black;
     color: white;
-    align: right;
+    aposition: absolute;
+  top: 0%;
+  left: 100%;
 }
 body {
     background-color: #f4f4f4;
