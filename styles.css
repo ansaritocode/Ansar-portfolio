@@ -53,4 +53,25 @@ body {
     margin: 20px;
     padding: 20px;
 }
+<style>
+        ol {
+            list-style: none;
+            padding: 0;
+        }
 
+        ol a {
+            display: block;
+            text-decoration: none;
+            color: white;
+            background-color: gray;
+            padding: 10px 15px;
+            margin: 5px 0;
+            border-radius: 5px;
+            text-align: center;
+            transition: background 0.3s ease;
+        }
+
+        ol a:active {
+            background-color: blue;
+        }
+    </style>
